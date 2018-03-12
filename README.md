@@ -48,6 +48,12 @@ Look at the `.gitignore` file in the CIExercise
 
 ## Modify the CIExercise to Include your Name
 
+I am *intentionally* not repeating all of the Git and GitHub commands for you here. You should be getting used to what you need to do. If you cannot remember how do the following steps ***in order***:
+
+1. Look at past in-class exercises and homework assignments.
+2. Ask your classmates for help.
+3. Ask me for help.
+
 > ### Git Workflow Reminder
 > 
 > 1. Add the change
@@ -84,7 +90,6 @@ Resolve any conflicts
 ### Go to the original repository and approve the pull request
 
 ### Check Travis
-
 
 ## Copyright and License
 #### &copy; 2018 Karl R. Wurst, Worcester State University
