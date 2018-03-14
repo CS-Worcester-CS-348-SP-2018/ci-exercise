@@ -11,5 +11,4 @@ public class EndsWith3Test {
 		EndsWith3 three = new EndsWith3();
 		assertEquals("EndsWith3 [names=Nathan Posterro\n]", three.toString());
 	}
-
 }
