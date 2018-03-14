@@ -10,6 +10,7 @@ public class EndsWith0Test {
 	public void testToString() {
 		EndsWith0 zero = new EndsWith0();
 		assertEquals("EndsWith0 [names=Amir Adelinia\n]", zero.toString());
+
 	}
 
 }
