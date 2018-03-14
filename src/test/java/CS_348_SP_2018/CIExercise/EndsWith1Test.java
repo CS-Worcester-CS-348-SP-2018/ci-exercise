@@ -10,7 +10,7 @@ public class EndsWith1Test {
 	@Test
 	public void testToString() {
 		EndsWith1 one = new EndsWith1();
-		assertEquals("EndsWith1 [names=Quoc Phan]", one.toString());
+		assertEquals("EndsWith1 [names=Quoc Phan\n]", one.toString());
 	}
 
 }
