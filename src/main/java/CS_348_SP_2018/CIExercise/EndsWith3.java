@@ -1,4 +1,3 @@
-
 package CS_348_SP_2018.CIExercise;
 
 public class EndsWith3 {
@@ -19,5 +18,4 @@ public class EndsWith3 {
 	public String toString() {
 		return "EndsWith3 [names=" + names + "]";
 	}
-
 }
