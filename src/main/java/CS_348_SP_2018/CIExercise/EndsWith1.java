@@ -7,7 +7,7 @@ public class EndsWith1 {
 	public EndsWith1()  {
 		names = "Quoc Phan";
 		// add your name here in the form of a line that looks like:
-		// names+= "John Smith\n";
+		// names+= "Quoc Phan\n";
 	}
 
 	@Override
