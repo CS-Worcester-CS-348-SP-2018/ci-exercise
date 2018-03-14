@@ -10,7 +10,6 @@ public class EndsWith3 {
 		// names+= "John Smith\n";
 		names+= "Ben Anderson\n";
 	}
-
 	@Override
 	public String toString() {
 		return "EndsWith3 [names=" + names + "]";
