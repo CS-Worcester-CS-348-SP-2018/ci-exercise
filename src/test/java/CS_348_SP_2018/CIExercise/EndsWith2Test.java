@@ -10,7 +10,7 @@ public class EndsWith2Test {
 	@Test
 	public void testToString() {
 		EndsWith2 two = new EndsWith2();
-		assertEquals("EndsWith2 [names=Ren Dutczak\n]", two.toString());
+		assertEquals("EndsWith2 [names=Ren Dutczak\nMatthew Foley\n]", two.toString());
 	}
 
 }
