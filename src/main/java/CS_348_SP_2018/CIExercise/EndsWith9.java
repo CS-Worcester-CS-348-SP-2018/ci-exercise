@@ -6,8 +6,10 @@ public class EndsWith9 {
 
 	public EndsWith9()  {
 		names = "";
+		names+= "George Matthew\n";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
+		names+= "Stephen Burke\n";
 	}
 
 	@Override
