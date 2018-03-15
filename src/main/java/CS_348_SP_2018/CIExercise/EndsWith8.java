@@ -1,4 +1,3 @@
-
 package CS_348_SP_2018.CIExercise;
 
 public class EndsWith8 {
@@ -9,8 +8,7 @@ public class EndsWith8 {
 		names = "";
 
 		// add your name here in the form of a line that looks like:
-		 names+= "Jeremiah W Atiswini\n";
-
+		names+= "Jeremiah W Atiswini\n";
 		names+="Oren Shoemaker\n";
 
 	}
@@ -21,3 +19,4 @@ public class EndsWith8 {
 	}
 
 }
+

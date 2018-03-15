@@ -1,4 +1,3 @@
-
 package CS_348_SP_2018.CIExercise;
 
 public class EndsWith4 {
